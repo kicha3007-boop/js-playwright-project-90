@@ -1,0 +1,12 @@
+node_modules/
+dist/
+tmp/
+test-results/
+playwright-report/
+*.md
+*.yml
+*.yaml
+*.json
+*.jsonc
+*.css
+*.html
